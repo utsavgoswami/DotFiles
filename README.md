@@ -1,2 +1,2 @@
 # VimFiles
-Files related to Vim configuration across various platforms (Vim, NeoVim, IdeaVIM, etc).. 
+Files related to Vim configuration across various platforms (Vim, NeoVim, IdeaVim, etc).. 
