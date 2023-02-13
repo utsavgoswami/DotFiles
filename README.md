@@ -1,2 +1,2 @@
-# VimFiles
-Files related to Vim configuration across various platforms (Vim, NeoVim, IdeaVim, etc).. 
+# DotFiles
+Files related to configurations in programs like bash and vim (.bashrc, .vimrc, .initvimrc, etc.) 
