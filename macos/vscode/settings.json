@@ -1,0 +1,12 @@
+{
+  "vim.vimrc.enable": true,
+  "vim.vimrc.path": "$HOME/.vimrc",
+  "editor.mouseWheelZoom": true,
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
